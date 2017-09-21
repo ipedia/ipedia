@@ -1,5 +1,7 @@
 # iPedia について
 
+[![Join the chat at https://gitter.im/ipedia/ipedia](https://badges.gitter.im/ipedia/ipedia.svg)](https://gitter.im/ipedia/ipedia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 iPediaは、アイデアのGithubを作ることを目指すプロジェクトです。
 
 「アイデアに価値はない。アイデアの研鑽に価値がある」とモットーとしており、アイデアを公開してみんなで考えたり行動したりすることで、より楽しく、よりスピーディにゴールへと突き進むことへのお手伝いをするサイトの作成と運営を目指します。
